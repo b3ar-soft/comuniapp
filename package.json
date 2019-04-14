@@ -1,0 +1,15 @@
+{
+  "name": "comuniapp-db",
+  "version": "1.0.0",
+  "description": "Comuniapp database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bearsoft",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.9.0"
+  }
+}
